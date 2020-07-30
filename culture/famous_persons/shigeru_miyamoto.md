@@ -5,8 +5,7 @@ parent: Famous Persons
 grand_parent: Culture
 ---
 # Shigeru Miyamoto
-"I enjoy thinking about ways to create something that other people have not even thought about, something no one has managed to achieve."
-{: .lead }
+> "I enjoy thinking about ways to create something that other people have not even thought about, something no one has managed to achieve."
 
 Produce or creator of the following series of video games.
 * Donkey Kong
@@ -18,5 +17,4 @@ Produce or creator of the following series of video games.
 
 First person inducted into the Academy of Interactive Arts and Sciences' Hall of Fame. Awarded Japan's Person of Cultural Merit in 2019 in recognition for his contributions towards Japan's video game industry.
 
-"I think that inside every adult is the heart of a child. We just gradually convince ourselves that we have to act more like adults."
-{: .lead }
+> "I think that inside every adult is the heart of a child. We just gradually convince ourselves that we have to act more like adults."
