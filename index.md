@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Montessori Curriculum
 
 ## Ages 3 - 6
